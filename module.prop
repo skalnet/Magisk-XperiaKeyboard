@@ -1,9 +1,9 @@
-id=template
-name=Template Module
-version=v1
+id=XperiaKeyboard
+name=Sony Xperia Keyboard
+version=7.3.A.0.54
 versionCode=1
-author=topjohnwu
-description=A short description
-support=http://forum.xda-developers.com/showthread.php?t=3432382
-donate=http://topjohnwu.github.io/donate
+author=skalnet
+description=The Sony Xperia Keyboard
+support=
+donate=
 cacheModule=false
